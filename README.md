@@ -2,7 +2,8 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md.css"/>
 
-beyond_mimicry&binary_lim_of_ai
+###### written by far org.
+
 # Beyond Mimicry and Binary Limitations of Artificial Intelligence
 
 1. Artificial intelligence, as it exists today, is deeply rooted in mimicry which is an attempt to replicate human cognitive processes through layered computations, neural networks, and pattern recognition models. But this approach is fundamentally flawed. AI systems, despite their complexity, do not think, they approximate. Every computation they perform is a simulation of logic, layered through redundant processes that slow down execution, increase energy consumption, and introduce inefficiencies.
@@ -137,4 +138,4 @@ Instead of building a spaceship inside a spaceship, Digital Omni improves the sp
 
 This isn’t just a faster AI. This is the evolution of intelligence in the digital age.
 
-###### written by far org.
+
