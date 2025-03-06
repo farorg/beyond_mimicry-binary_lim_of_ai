@@ -136,3 +136,5 @@ AI tries to be human, Digital Omni doesn’t need to. It processes knowledge in 
 Instead of building a spaceship inside a spaceship, Digital Omni improves the spaceship itself it makes the computing faster, smarter, and fundamentally more logical.
 
 This isn’t just a faster AI. This is the evolution of intelligence in the digital age.
+
+###### written by wefutr team.
