@@ -137,4 +137,4 @@ Instead of building a spaceship inside a spaceship, Digital Omni improves the sp
 
 This isn’t just a faster AI. This is the evolution of intelligence in the digital age.
 
-###### written by wefutr team.
+###### written by far org.
